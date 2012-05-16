@@ -1,0 +1,13 @@
+Build
+-----
+
+gcc bfng93.c -O2 -s -o bfng93
+
+
+Use
+---
+
+./bfng93 file.bf
+
+
+Source of the examples: http://quadium.net/funge/downloads/bef93src/
